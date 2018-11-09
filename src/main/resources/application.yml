@@ -1,0 +1,9 @@
+
+security:
+  oauth2:
+    resource:
+      user-info-uri: http://localhost:8181/user
+
+logging:
+  level:
+    org.springframework.security: DEBUG
